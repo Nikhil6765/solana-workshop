@@ -1,0 +1,22 @@
+{
+  "name": "solana-workshop",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhil6765/solana-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhil6765/solana-workshop/issues"
+  },
+  "homepage": "https://github.com/Nikhil6765/solana-workshop#readme",
+  "dependencies": {
+    "inspirational-quotes": "^2.0.1"
+  }
+}
